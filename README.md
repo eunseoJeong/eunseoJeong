@@ -1,5 +1,7 @@
 ### Hi there, I'm eunseo 👋
 
+<div align=center>
+
 🦁 Likelion at SCH 9th member
 
 🌱 I’m currently learning Machine Learning

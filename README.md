@@ -1,6 +1,6 @@
 ### Hi there, I'm eunseo 👋
 
-<div align=center>
+</div>
 
 🦁 Likelion at SCH 9th member
 

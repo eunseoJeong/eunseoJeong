@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm eunseo 👋
 
 <!--
 **eunseoJeong/eunseoJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![eunseoJeong's github stats](https://github-readme-stats.vercel.app/api?username=eunseoJeong&show_icons=true&hide_border=True&&theme=buefy)
 
-![Dubu3](https://user-images.githubusercontent.com/64319351/111869663-cb74f580-89c3-11eb-9cdd-8e69301ac1a1.png){: width="50" height="50"}

@@ -1,6 +1,7 @@
 ### Hi there, I'm eunseo 👋
 
 🦁 Likelion at SCH 9th member
+
 🌱 I’m currently learning Machine Learning
 <!--
 **eunseoJeong/eunseoJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

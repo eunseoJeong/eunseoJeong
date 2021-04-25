@@ -1,6 +1,5 @@
 ### Hi there, I'm eunseo 👋
 
-</div>
 
 🦁 Likelion at SCH 9th member
 

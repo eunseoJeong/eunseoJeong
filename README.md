@@ -1,10 +1,4 @@
 ### Hi there, I'm eunseo 👋
-
-
-- 🦁 Likelion at SCH 9th member
-
-- 🌱 I’m currently learning Machine Learning
-
 - ⚡ Tech Stack
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -13,6 +7,11 @@
   <img src="https://img.shields.io/badge/HTML-ffb13b?style=flat-square&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+
+- 🦁 Likelion at SCH 9th member
+
+- 🌱 I’m currently learning Machine Learning
 
 <!--
 **eunseoJeong/eunseoJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![eunseoJeong's github stats](https://github-readme-stats.vercel.app/api?username=eunseoJeong&show_icons=true&hide_border=True&&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseoJeong&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseoJeong&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![eunseoJeong's github stats](https://github-readme-stats.vercel.app/api?username=eunseoJeong&show_icons=true&hide_border=True&&theme=buefy)

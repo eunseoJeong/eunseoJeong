@@ -6,13 +6,11 @@
 - 🌱 I’m currently learning Machine Learning
 
 - ⚡ Tech Stack
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-1572B6?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-ffb13b?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-</p>
 
 <!--
 **eunseoJeong/eunseoJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
